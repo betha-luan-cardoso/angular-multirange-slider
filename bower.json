@@ -9,11 +9,11 @@
     "dist/multirange-slider.js",
     "dist/multirange-slider.css"
   ],
+  "license": "MIT",
   "keywords": [
     "AngularJS",
     "slider"
   ],
-  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
